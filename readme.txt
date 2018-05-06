@@ -10,3 +10,4 @@ redit
 redis
 git
 git hub
+python
