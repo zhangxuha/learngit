@@ -8,3 +8,4 @@ bootstrap
 angular
 redit
 redis
+git
